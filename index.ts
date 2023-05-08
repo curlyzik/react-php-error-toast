@@ -1,0 +1,1 @@
+export { isRPT } from "./src";

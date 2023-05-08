@@ -1,0 +1,29 @@
+{
+  "name": "react-php-error-toast",
+  "version": "1.0.0",
+  "description": "Display PHP validation response errors nicely",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curlyzik/react-php-error-toast.git"
+  },
+  "keywords": [
+    "PHP",
+    "error",
+    "Toast"
+  ],
+  "author": "Isaac Nzekwe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curlyzik/react-php-error-toast/issues"
+  },
+  "homepage": "https://github.com/curlyzik/react-php-error-toast#readme",
+  "devDependencies": {
+    "@types/node": "^20.1.0",
+    "typescript": "^5.0.4"
+  }
+}
